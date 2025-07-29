@@ -11,4 +11,4 @@
 ## Week 2 - Github Training
 
 ### ✅ Completion Screenshot
-![Git Training Screenshot](https://github.com/Piyush-Tech-Developer/5211312_Piyush/blob/main/GIT/Git%20Simplilearn%20Certificate.pdf)
+![Git Training Screenshot](https://github.com/Piyush-Tech-Developer/5211312_Piyush/blob/main/GIT/GIT%20Simplilearn%20Screenshot.png)
